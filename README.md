@@ -21,5 +21,5 @@ Resource Allocation Graph: Visualizes resource allocation to detect potential de
 Process Termination: Ends selected processes to break deadlock cycles.
 Resource Preemption: Forcibly releases and reallocates resources.
 
-License
+License: 
 This project is licensed under the MIT License.
